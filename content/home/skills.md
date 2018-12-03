@@ -6,7 +6,7 @@ date = 2017-09-20T00:00:00
 # Activate this widget? true/false
 active = true
 
-title = "Skills"
+title = "Software Skills"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -22,21 +22,21 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "r-project"
+  icon = "js-square"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Java Script"
+  description = ""
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "react"
+  icon_pack = "fab"
+  name = "ReactJS"
+  description = ""  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "node-js"
+  icon_pack = "fab"
+  name = "NodeJS"
+  description = ""  
 
 +++
