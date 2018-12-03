@@ -25,7 +25,7 @@ date_format = "January 2006"
   location = "Chennai"
   date_start = "2016-09-01"
   date_end = ""
-  description = """..."""
+  description = ""
 
 [[experience]]
   title = "Junior Product Hacker"
@@ -34,7 +34,7 @@ date_format = "January 2006"
   location = "Chennai"
   date_start = "2015-09-01"
   date_end = "2016-08-31"
-  description = """..."""
+  description = ""
 
 [[experience]]
   title = "Assistant System Engineer"
@@ -43,6 +43,6 @@ date_format = "January 2006"
   location = "Chennai"
   date_start = "2013-09-01"
   date_end = "2015-08-31"
-  description = """..."""
+  description = ""
 
 +++

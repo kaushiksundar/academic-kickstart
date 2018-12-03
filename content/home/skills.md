@@ -39,4 +39,21 @@ weight = 7
   name = "NodeJS"
   description = ""  
 
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "" 
+
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+  description = ""  
+
+[[feature]]
+  icon = "fighter-jet"
+  icon_pack = "fas"
+  name = "Any tech"
+  description = "Quick learner"  
 +++
