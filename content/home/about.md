@@ -12,7 +12,8 @@ weight = 5
   interests = [  
     "Education with value system",
     "Programming",
-    "Policy making",
+    "Philosophy",
+    "Human Physiology",
   ]
 
 # List your qualifications (such as academic degrees).
