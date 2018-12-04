@@ -26,6 +26,6 @@ weight = 5
 
 # Biography
 
-Kaushik Sundar is a software developer at Report Bee. 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Kaushik is a software developer @ReportBee, a company that is in the education business and develops smart report cards for schools. 
+He is a passionate software developer, who is also a quick learner with the ability to adopt and adapt new technologies. 
+He spends most of the time architecting and designing software applications with an emphasis on front-ends.  
