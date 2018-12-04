@@ -27,5 +27,5 @@ weight = 5
 # Biography
 
 Kaushik is a software developer @ReportBee, a company that is in the education business and develops smart report cards for schools. 
-He is a passionate software developer, who is also a quick learner with the ability to adopt and adapt new technologies. 
+He is a passionate full stack software developer, who is also a quick learner with the ability to adopt and adapt new technologies. 
 He spends most of the time architecting and designing software applications with an emphasis on front-ends.  
